@@ -1,3 +1,6 @@
+#RSGallery2 github web page
+(Github project -> RSGallery2.github.io)
+
 ● RSGallery2_Plugin_DisplayImage:    Displays a single image in an article
 ● RSGllery2_Plugin_DisplayGallery:   Displays a gallery in an article
 ● RSGallery2_Module_ThumbScroller: Module to scroll selected thumbnails from RSGallery2 images
